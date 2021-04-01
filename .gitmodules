@@ -3,3 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rGEDI"]
+	path = rGEDI
+	url = https://github.com/carlos-alberto-silva/rgedi
+	shallow = true
+[submodule "treetop"]
+	path = treetop
+	url = https://github.com/carlos-alberto-silva/weblidar-treetop
+	shallow = true
