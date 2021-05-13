@@ -8,10 +8,8 @@
 	url = https://github.com/carlos-alberto-silva/rgedi
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "treetop"]
 	path = treetop
 	url = https://github.com/carlos-alberto-silva/weblidar-treetop
 	shallow = true
 	registered = true
-	oncran = true

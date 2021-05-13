@@ -1,0 +1,10 @@
+[
+  {
+    "package": "rGEDI",
+    "oncran": true
+  },
+  {
+    "package": "treetop",
+    "oncran": true
+  }
+]
