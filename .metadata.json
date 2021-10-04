@@ -1,5 +1,9 @@
 [
   {
+    "package": "rForest",
+    "oncran": true
+  },
+  {
     "package": "rGEDI",
     "oncran": true
   },
