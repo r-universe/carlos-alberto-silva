@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "rLiDAR",
+    "oncran": true
+  },
+  {
     "package": "treetop",
     "oncran": true
   }
