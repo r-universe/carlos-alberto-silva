@@ -4,9 +4,6 @@
     "oncran": true
   },
   {
-    "package": "rGEDI"
-  },
-  {
     "package": "rLiDAR",
     "oncran": true
   },

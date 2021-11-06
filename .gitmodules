@@ -8,11 +8,6 @@
 	url = https://github.com/carlos-alberto-silva/rforest
 	shallow = true
 	registered = true
-[submodule "rGEDI"]
-	path = rGEDI
-	url = https://github.com/carlos-alberto-silva/rgedi
-	shallow = true
-	registered = true
 [submodule "rLiDAR"]
 	path = rLiDAR
 	url = https://github.com/carlos-alberto-silva/rlidar
