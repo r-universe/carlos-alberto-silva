@@ -2,5 +2,8 @@
   {
     "package": "rLiDAR",
     "oncran": true
+  },
+  {
+    "package": "rForest"
   }
 ]

@@ -8,3 +8,8 @@
 	url = https://github.com/carlos-alberto-silva/rlidar
 	shallow = true
 	registered = true
+[submodule "rForest"]
+	path = rForest
+	url = https://github.com/carlos-alberto-silva/rforest
+	shallow = true
+	registered = true
