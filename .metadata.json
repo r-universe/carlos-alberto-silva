@@ -5,5 +5,8 @@
   },
   {
     "package": "rForest"
+  },
+  {
+    "package": "treetop"
   }
 ]
