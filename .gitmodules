@@ -8,6 +8,11 @@
 	url = https://github.com/carlos-alberto-silva/rlidar
 	shallow = true
 	registered = true
+[submodule "treetop"]
+	path = treetop
+	url = https://github.com/carlos-alberto-silva/weblidar-treetop
+	shallow = true
+	registered = true
 [submodule "rForest"]
 	path = rForest
 	url = https://github.com/carlos-alberto-silva/rforest
