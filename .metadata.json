@@ -1,13 +1,13 @@
 [
   {
+    "package": "rForest"
+  },
+  {
     "package": "rLiDAR",
     "oncran": true
   },
   {
     "package": "treetop",
     "oncran": true
-  },
-  {
-    "package": "rForest"
   }
 ]
