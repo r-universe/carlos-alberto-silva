@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ForestGapR"]
+	path = ForestGapR
+	url = https://github.com/carlos-alberto-silva/forestgapr
+	shallow = true
+	registered = true
 [submodule "rForest"]
 	path = rForest
 	url = https://github.com/carlos-alberto-silva/rforest
@@ -11,6 +16,11 @@
 [submodule "rLiDAR"]
 	path = rLiDAR
 	url = https://github.com/carlos-alberto-silva/rlidar
+	shallow = true
+	registered = true
+[submodule "rTLsDeep"]
+	path = rTLsDeep
+	url = https://github.com/carlos-alberto-silva/rtlsdeep
 	shallow = true
 	registered = true
 [submodule "treetop"]
