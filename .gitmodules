@@ -1,16 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/carlos-alberto-silva/carlos-alberto-silva.r-universe.dev
 	branch = HEAD
 [submodule "ForestGapR"]
 	path = ForestGapR
-	url = https://github.com/carlos-alberto-silva/forestgapr
-[submodule "rLiDAR"]
-	path = rLiDAR
-	url = https://github.com/carlos-alberto-silva/rlidar
-[submodule "rTLsDeep"]
-	path = rTLsDeep
-	url = https://github.com/carlos-alberto-silva/rtlsdeep
-[submodule "treetop"]
-	path = treetop
-	url = https://github.com/carlos-alberto-silva/weblidar-treetop
+	url = https://github.com/carlos-alberto-silva/ForestGapR
+[submodule "LadderFuelsR"]
+	path = LadderFuelsR
+	url = https://github.com/olgaviedma/LadderFuelsR
+[submodule "rGEDI"]
+	path = rGEDI
+	url = https://github.com/carlos-alberto-silva/rGEDI
