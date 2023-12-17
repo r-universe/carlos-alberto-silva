@@ -11,3 +11,6 @@
 [submodule "rGEDI"]
 	path = rGEDI
 	url = https://github.com/carlos-alberto-silva/rGEDI
+[submodule "rICESat2Veg"]
+	path = rICESat2Veg
+	url = https://github.com/carlos-alberto-silva/rICESat2Veg
