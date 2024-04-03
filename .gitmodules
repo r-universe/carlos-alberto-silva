@@ -5,12 +5,12 @@
 [submodule "ForestGapR"]
 	path = ForestGapR
 	url = https://github.com/carlos-alberto-silva/ForestGapR
+[submodule "ICESat2VegR"]
+	path = ICESat2VegR
+	url = https://github.com/carlos-alberto-silva/ICESat2VegR
 [submodule "LadderFuelsR"]
 	path = LadderFuelsR
 	url = https://github.com/olgaviedma/LadderFuelsR
 [submodule "rGEDI"]
 	path = rGEDI
 	url = https://github.com/carlos-alberto-silva/rGEDI
-[submodule "rICESat2Veg"]
-	path = rICESat2Veg
-	url = https://github.com/carlos-alberto-silva/rICESat2Veg
