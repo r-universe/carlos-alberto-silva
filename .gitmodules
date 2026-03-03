@@ -11,6 +11,9 @@
 [submodule "LadderFuelsR"]
 	path = LadderFuelsR
 	url = https://github.com/olgaviedma/LadderFuelsR
+[submodule "nisaR"]
+	path = nisaR
+	url = https://github.com/carlos-alberto-silva/nisaR
 [submodule "rFDS"]
 	path = rFDS
 	url = https://github.com/carlos-alberto-silva/rFDS
